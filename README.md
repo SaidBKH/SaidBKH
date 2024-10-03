@@ -1,3 +1,3 @@
-![Ma bannière](./banner.png)
-![langage](./langage.outils.png)
+![Ma bannière](./banner.git.png)
+![langage](./langage.png)
 
